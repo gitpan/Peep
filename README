@@ -1,0 +1,25 @@
+This module consists of client libraries and executables
+for Peep:  The Network Auralizer.
+
+For more information, consult
+
+  http://peep.sourceforge.net
+
+or 
+
+  collin.starkweather@colorado.edu
+
+My responses may or may be timely depending on what kind of 
+mood I'm in, though in general I try to answer my mail
+promptly. 
+
+Installation
+------------
+
+To install this module, use the time-honored
+
+  perl Makefile.PL
+  make
+  make test
+  make install
+
